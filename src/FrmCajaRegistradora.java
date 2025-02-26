@@ -104,6 +104,6 @@ public class FrmCajaRegistradora extends JFrame {
     }
 
     public static void main(String[] args) {
-        new FrmCajaRegistradora().setVisible(true);  // Ahora SÍ puedes hacer esto 🎉
+        new FrmCajaRegistradora().setVisible(true);
     }
 }
